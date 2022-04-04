@@ -59,5 +59,5 @@ Sales specialist in the financial sector for over 7 years.
 ***
 
 #### Languages:
-English - A2    
+English - A2+  
 French - B1
