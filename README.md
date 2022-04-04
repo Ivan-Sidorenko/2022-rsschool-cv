@@ -1,1 +1,1 @@
-# 2022-rsschool-cv
+https://ivan-sidorenko.github.io/rsschool-cv/cv
